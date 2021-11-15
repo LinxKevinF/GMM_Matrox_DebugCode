@@ -1,0 +1,16 @@
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\bin\x86\Debug\netcoreapp3.1\ConsoleApp2.exe
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\bin\x86\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\bin\x86\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\bin\x86\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\bin\x86\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\bin\x86\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\bin\x86\Debug\netcoreapp3.1\Matrox.MatroxImagingLibrary.dll
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\bin\x86\Debug\netcoreapp3.1\Matrox.MatroxImagingLibrary.xml
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\obj\x86\Debug\netcoreapp3.1\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\obj\x86\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\obj\x86\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\obj\x86\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\obj\x86\Debug\netcoreapp3.1\ConsoleApp2.csproj.CopyComplete
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\obj\x86\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\obj\x86\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\LINX_SW\source\repos\ConsoleApp2\ConsoleApp2\obj\x86\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache

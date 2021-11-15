@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp2/1.0.0": {
+        "dependencies": {
+          "Matrox.MatroxImagingLibrary": "10.40.881.1281"
+        },
+        "runtime": {
+          "ConsoleApp2.dll": {}
+        }
+      },
+      "Matrox.MatroxImagingLibrary/10.40.881.1281": {
+        "runtime": {
+          "Matrox.MatroxImagingLibrary.dll": {
+            "assemblyVersion": "10.40.881.1281",
+            "fileVersion": "10.40.881.1281"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Matrox.MatroxImagingLibrary/10.40.881.1281": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
